@@ -5,8 +5,6 @@ durvpmp7u38.html
 g07ou5uuatg.tex
 3tojkqbqtq.html
 qmtp743mtl.html
-67oktoekjo.html
-115f5v79ke.html
 61dfcegc7pg.html
 2fl1ld7dseo.tex
 vkks29n746g.html
