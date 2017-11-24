@@ -13,8 +13,6 @@ jn0l96j8ll8.tex
 qmtp743mtl.html
 faqm2hctdjg.tex
 190n9ust6pg.html
-adk62cln25.html
-4hvg05920e.html
 t93qk5r0bo8.html
 3qdm2s497fg.html
 a654ggrs91.html
