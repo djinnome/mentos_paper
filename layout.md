@@ -5,7 +5,6 @@ vjf4ektc16.html
 m0lfnjt3i6.html
 durvpmp7u38.html
 8mcn9kqrr78.html
-g07ou5uuatg.tex
 3tojkqbqtq.html
 tina7dn3dqg.tex
 mggrr4prcq.html
