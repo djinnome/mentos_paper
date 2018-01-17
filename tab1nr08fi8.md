@@ -1,1 +1,1 @@
-If we consider the difference between the net ra 
+If we consider the difference between the net rate  
