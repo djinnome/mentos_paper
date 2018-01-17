@@ -1,1 +1,1 @@
-There is an important relationship bet 
+There is an important relationship between the net rate 
