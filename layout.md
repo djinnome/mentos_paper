@@ -25,7 +25,6 @@ h874u95ulb.tex
 t93qk5r0bo8.html
 bprfc79cpt8.tex
 0gblhd3stug.tex
-tab1nr08fi8.md
 vt49svoncn8.html
 5u1et6qvbco.tex
 oa22t34h3r.md
