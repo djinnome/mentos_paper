@@ -1,1 +1,1 @@
-The likelihood that a re is an important relationship between the net rate $\Delta r=r_+ - r_-$ and
+The likelihood that a reaction firere is an important relationship between the net rate $\Delta r=r_+ - r_-$ and
