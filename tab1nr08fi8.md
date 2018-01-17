@@ -1,1 +1,1 @@
-If we consider the difference between the net rate $\Delta 
+If we consider the difference between the net rate $\Delta r$ and the  
