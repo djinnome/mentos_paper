@@ -1,1 +1,1 @@
-If we consider the difference between a reaction aff
+If we consider the difference between a reaction affinity and 
