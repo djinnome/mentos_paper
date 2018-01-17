@@ -1,1 +1,1 @@
-If we consider the difference between 
+If we consider the difference between a 
