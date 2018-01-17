@@ -1,1 +1,1 @@
-The re is an important relationship between the net rate $\Delta r=r_+ - r_-$ and
+The likelre is an important relationship between the net rate $\Delta r=r_+ - r_-$ and
