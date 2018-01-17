@@ -1,1 +1,0 @@
-force $\mathcal A/RT = \log 
