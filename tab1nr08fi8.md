@@ -1,1 +1,1 @@
-The likelre is an important relationship between the net rate $\Delta r=r_+ - r_-$ and
+The likelihood that a reaction fires in the forward direction re is an important relationship between the net rate $\Delta r=r_+ - r_-$ and
