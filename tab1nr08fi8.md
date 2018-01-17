@@ -1,1 +1,1 @@
-The ratio of the forward to 
+The ratio of the forward to like
