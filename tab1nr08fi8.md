@@ -1,1 +1,1 @@
-If we consider the difference between a reaction
+If we consider the difference between a reaction aff
