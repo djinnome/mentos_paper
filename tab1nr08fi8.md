@@ -1,1 +1,1 @@
-There is an important relationship between the net rate $\Delta r=r_+ - r_-$ and the thermodynamic force $\mathcal A/RT = \log r_+ -\log r_-$.  
+There is an important relationship between the net rate  and the thermodynamic force $\mathcal A/RT = \log r_+ -\log r_-$.  
