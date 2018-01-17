@@ -1,1 +1,1 @@
-The 
+The ratio of the forward to 
