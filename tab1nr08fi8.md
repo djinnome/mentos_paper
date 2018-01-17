@@ -1,1 +1,1 @@
-If we consider the difference between a 
+If we consider the difference between a reaction
