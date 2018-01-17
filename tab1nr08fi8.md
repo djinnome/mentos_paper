@@ -1,1 +1,1 @@
-If we conc
+If we consider the 
