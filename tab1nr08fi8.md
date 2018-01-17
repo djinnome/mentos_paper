@@ -1,1 +1,1 @@
-The ratio of the
+T
