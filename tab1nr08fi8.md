@@ -1,1 +1,1 @@
-There is an important relationship between the net rate $\Delta r=r_+ - r_-$ and the net likelihoods $\Delta L = L_+ - L_-$.  
+There is an important relationship between the net rate $\Delta r=r_+ - r_-$ and the net likelihoods $\Delta L = L_+ - L_-$. Recall 
