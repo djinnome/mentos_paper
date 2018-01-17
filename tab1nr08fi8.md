@@ -1,1 +1,1 @@
-There is an important relationship between the net rate $\Delta r=r_+ - r_-$ and the thermodynamic force
+There is an important relationship between the net rate $\Delta r=r_+ - r_-$ and the thermodynamic force, 
