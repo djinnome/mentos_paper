@@ -1,1 +1,1 @@
-There is an important relationship between the net rate $\Delta r=r$ and the net likelihoods $\Delta L 
+There is an important relationship between the net rate $\Delta r=r_+$ and the net likelihoods $\Delta L 
