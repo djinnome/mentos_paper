@@ -1,1 +1,1 @@
-There is an important relationship between the net rate $\Delta r$ and the net 
+There is an important relationship between the net rate $\Delta r$ and the net likelihoods 
