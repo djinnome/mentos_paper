@@ -2,7 +2,7 @@ $$
 \begin{alignat}{2}
   &  \text{maximize}  &  - \sum_j\left(\mathscr P_{+j}\log(\mathscr P_{+j})   \mathscr P_{-j}\log(\mathscr P_{-j})\right) &   \\
    & \text{subject to}  & S\cdot(\vec{\bf L}_+-\vec{\bf L}_-) = 0  &&  \text{Steady-state Net Likelihood Constraint} \\
-                         & S\cdot(\vec{\bf r}_+-\vec{\bf r}_-) = 0 && \text{Steady-state net flux Constraint} \\
+    &                     & S\cdot(\vec{\bf r}_+-\vec{\bf r}_-) = 0 && \text{Steady-state net flux Constraint} \\
                        &\log\vec{\bf r}_+ -\log\vec{\bf r}_-= -\frac{1}{RT}S^T\cdot\vec{\mu}^0 - S^T\cdot\log\vec{\bf c} && \text{Thermodynamic Constraint} \\
                       %% & \log\vec{\bf L}_- = \frac{1}{RT}S^T\cdot\vec{\mu}^0 + S^T\cdot\log\vec{\bf c} \\
                       %% & \log\vec{\bf L}_+  -\log\vec{\bf L}_- \\
