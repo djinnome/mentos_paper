@@ -1,6 +1,6 @@
 \[
 \begin{aligned}
-  &  \text{maximize}  &  - \sum_j\left(\mathscr P_{+j}\log(\mathscr P_{+j}) -  \sum_j\mathscr P_{-j}\log(\mathscr P_{-j})\right) &   \\
+  &  \text{maximize}  &  - \sum_j\left(\mathscr P_{+j}\log(\mathscr P_{+j}) -  \mathscr P_{-j}\log(\mathscr P_{-j})\right) &   \\
    & \text{subject to}  & S\cdot(\vec{\bf L}_+-\vec{\bf L}_-) = 0  &  \text{Steady-state Net Likelihood Constraint} \\
      &                  &\log\vec{\bf r}_+ -\log\vec{\bf r}_-= -\frac{1}{RT}S^T\cdot\vec{\mu}^0 - S^T\cdot\log\vec{\bf c} & \text{Thermodynamic Constraint} \\
                       %% & \log\vec{\bf L}_- = \frac{1}{RT}S^T\cdot\vec{\mu}^0 + S^T\cdot\log\vec{\bf c} \\
