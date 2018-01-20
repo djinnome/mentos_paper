@@ -43,6 +43,8 @@ ksajlbprh6o.tex
 5n49vtmnvcg.html
 8veig6snap8.tex
 tjo1gnkksg.html
+figures/ABC_material_view
+d0gnr0piv4g.html
 ed07902q33g.html
 97dll3lslg8.html
 8pnrimlqjro.tex
