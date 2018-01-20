@@ -5,5 +5,5 @@
 * \(\mathscr P_{+i} = \frac{r_{+i}}{r_{-i}}\left(\sum_j\frac{r_{+j}}{r_{-j}} + \frac{r_{-j}}{r_{+j}}\right)^{-1}\)
 * \(\mathscr P_{+i} = \frac{r_{-i}}{r_{+i}}\left(\sum_j\frac{r_{+j}}{r_{-j}} + \frac{r_{-j}}{r_{+j}}\right)^{-1}\)
 * \(\log\vec{\bf c}\) is a decision variable representing the log concentrations of each metabolite 
-*  \(S is the $m\times n$ stoichiometric matrix of representing $m$ metabolites and $n$ reactions of the model  
+*  \(S\) is the $m\times n$ stoichiometric matrix of representing $m$ metabolites and $n$ reactions of the model  
 *  $\vec{\mu}^0$ is the vector of standard chemical potentials 
