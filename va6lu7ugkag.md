@@ -1,4 +1,4 @@
-* \\vec{\bf L}_+,\vec{\bf L}_-\] are decision variables representing the likelihood ratios of the forward and backward rates
+* \(\vec{\bf L}_+,\vec{\bf L}_-\] are decision variables representing the likelihood ratios of the forward and backward rates
 * $L_{+i} = r_{+i}/r_{-i}$ for each reaction $j$
 * $L_{-i} = r_{-i}/r_{+i}$ for each reaction $j$.
 * ${\mathscr P}_{+i},{\mathscr P}_{-i}$ are the normalized likelihood ratios of the forward and backward rates
