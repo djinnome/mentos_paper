@@ -2,7 +2,7 @@
 * \(L_{+i} = r_{+i}/r_{-i}\) for each reaction \(j\)
 * \(L_{-i} = r_{-i}/r_{+i}\) for each reaction \(j\).
 * \({\mathcal P}_{+i},{\mathcal P}_{-i}\) are the normalized likelihood ratios of the forward and backward rates
-* \(\mathr P_{+i} = \frac{r_{+i}}{r_{-i}}\left(\sum_j\frac{r_{+j}}{r_{-j}} + \frac{r_{-j}}{r_{+j}}\right)^{-1}\)
+* \(\math P_{+i} = \frac{r_{+i}}{r_{-i}}\left(\sum_j\frac{r_{+j}}{r_{-j}} + \frac{r_{-j}}{r_{+j}}\right)^{-1}\)
 * \(\mathscr P_{+i} = \frac{r_{-i}}{r_{+i}}\left(\sum_j\frac{r_{+j}}{r_{-j}} + \frac{r_{-j}}{r_{+j}}\right)^{-1}\)
 * \(\log\vec{\bf c}\) is a decision variable representing the log concentrations of each metabolite 
 *  \(S\) is the \(m\times n\) stoichiometric matrix of representing \(m\) metabolites and \(n\) reactions of the model  
