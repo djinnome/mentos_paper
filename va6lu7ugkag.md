@@ -1,7 +1,7 @@
 * \(\vec{\bf L}_+,\vec{\bf L}_-\) are decision variables representing the likelihood ratios of the forward and backward rates
 * \(L_{+i} = r_{+i}/r_{-i}\) for each reaction \(j\)
 * \(L_{-i} = r_{-i}/r_{+i}\) for each reaction \(j\).
-* \({\mathcal P}_{+i},{\mathscr P}_{-i}\) are the normalized likelihood ratios of the forward and backward rates
+* \({\mathcal P}_{+i},{\math P}_{-i}\) are the normalized likelihood ratios of the forward and backward rates
 * \(\mathscr P_{+i} = \frac{r_{+i}}{r_{-i}}\left(\sum_j\frac{r_{+j}}{r_{-j}} + \frac{r_{-j}}{r_{+j}}\right)^{-1}\)
 * \(\mathscr P_{+i} = \frac{r_{-i}}{r_{+i}}\left(\sum_j\frac{r_{+j}}{r_{-j}} + \frac{r_{-j}}{r_{+j}}\right)^{-1}\)
 * \(\log\vec{\bf c}\) is a decision variable representing the log concentrations of each metabolite 
