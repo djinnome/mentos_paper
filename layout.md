@@ -54,4 +54,3 @@ figures/ABC_entropy_view
 nrrj5ke9uc.html
 ed07902q33g.html
 97dll3lslg8.html
-8pnrimlqjro.tex
