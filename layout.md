@@ -48,6 +48,8 @@ va6lu7ugkag.md
 e7i2b3ptld8.html
 figures/ABC_material_view
 d0gnr0piv4g.html
+figures/ABC-ElementaryModes
+coh5o6b8ilo.html
 figures/ABC_energy_view
 jcjm6ji59co.html
 figures/ABC_entropy_view
